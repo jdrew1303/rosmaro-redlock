@@ -1,0 +1,19 @@
+{
+  "name": "rosmaro-redlock",
+  "version": "1.0.0",
+  "description": "Redlock wrapper for Rosmaro.",
+  "main": "rosmaro-redlock.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test.js"
+  },
+  "keywords": [
+    "rosmaro",
+    "redlock",
+    "lock"
+  ],
+  "author": "Łukasz Makuch <kontakt@lukaszmakuch.pl>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
